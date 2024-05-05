@@ -1,0 +1,137 @@
+date,normal_rate,discount_type,discount_ammout,post_discount,adjustment,billing,status,gender,city,state,program,room,schedule
+8/1/2022,1100,,0,1100,0,1100,Active,male,Dallas, Texas,Primary,Chevalier,FD
+8/1/2022,1000,Employee discount,-1000,0,0,0,Active,male,Garland, Texas,Lower Elementary,Newton,FD
+8/1/2022,950,Employee discount,-950,0,0,0,Active,female,Garland, Texas,Lower Elementary,Newton,5SD
+8/1/2022,950,Employee discount,-950,0,0,0,Active,female,Garland, Texas,Lower Elementary,Newton,5SD
+8/1/2022,1050,Sibling ,-100,950,-950,0,Active,female,Garland, Texas,Lower Elementary,Newton,5SD
+8/1/2022,1018.5,Sibling ,-186.76,831.74,0,831.74,Active,female,Garland, Texas,Lower Elementary,Newton,FD
+8/1/2022,1000,,0,1000,0,1000,Active,male,Garland, Texas,Lower Elementary,Newton,FD
+8/1/2022,1000,,0,1000,0,1000,Active,female,Garland, Texas,Lower Elementary,Newton,FD
+8/1/2022,1000,Sibling ,-97.5,902.5,0,902.5,Active,female,Garland, Texas,Primary,Cassatt,FD
+8/1/2022,1000,Corporate Discount,-50,950,0,950,Active,male,Garland, Texas,Primary,Chevalier,5HD
+8/1/2022,1050,Healthcare Worker,-52.5,997.5,0,997.5,Active,male,Garland, Texas,Primary,Chevalier,FD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Active,male,Garland, Texas,Primary,Chevalier,FD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Active,male,Garland, Texas,Primary,Chevalier,5SD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Active,male,Garland, Texas,Primary,Chevalier,FD
+8/1/2022,1000,Sibling ,-97.5,902.5,0,902.5,Active,male,Garland, Texas,Primary,Chevalier,FD
+8/1/2022,1100,Sibling ,-55,1045,0,1045,Active,male,Garland, Texas,Primary,Chevalier,5SD
+8/1/2022,1100,,0,1100,0,1100,Active,male,Garland, Texas,Primary,Chevalier,5SD
+8/1/2022,1050,,0,1050,0,1050,Active,female,Garland, Texas,Primary,Chevalier,FD
+8/1/2022,190,,0,190,0,190,Active,male,Garland, Texas,Primary,Chevalier,5HD
+8/1/2022,95,,0,95,0,95,Active,male,Garland, Texas,Primary,Chevalier,FD
+8/1/2022,1133,Old Price Discount,-114.5,1018.5,0,1018.5,Active,male,Garland, Texas,Upper Elementary,Einstein,FD
+8/1/2022,1155,Old Price Discount,-55,1100,0,1100,Active,female,Garland, Texas,Toddler,Monet,FD
+8/1/2022,1155,Old Price Discount,-55,1100,-55,1045,Active,male,Garland, Texas,Toddler,Monet,FD
+8/1/2022,1100,Corporate Discount,-102.5,997.5,0,997.5,Active,female,Garland, Texas,Toddler,Monet,FD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Active,female,Garland, Texas,Toddler,Monet,FD
+8/1/2022,1100,Friends & Family,-1100,0,0,0,Active,male,Garland, Texas,Primary,Van Gogh,FD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Active,male,Garland, Texas,Primary,Van Gogh,FD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Active,female,Garland, Texas,Primary,Van Gogh,FD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Active,female,Garland, Texas,Primary,Van Gogh,FD
+8/1/2022,1000,Sibling ,-142.62,857.38,0,857.38,Active,female,Garland, Texas,Primary,Van Gogh,FD
+8/1/2022,1000,Sibling ,-97.5,902.5,0,902.5,Active,female,Plano, Texas,Lower Elementary,Newton,5SD
+8/1/2022,1000,,0,1000,0,1000,Active,female,Plano, Texas,Lower Elementary,Newton,5SD
+8/1/2022,1100,,0,1100,0,1100,Active,female,Plano, Texas,Primary,Chevalier,FD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Active,female,Plano, Texas,Toddler,Monet,FD
+8/1/2022,1100,Corporate Discount,-102.5,997.5,0,997.5,Active,female,Plano, Texas,Primary,Van Gogh,FD
+8/1/2022,1000,Sibling ,-97.5,902.5,0,902.5,Active,male,Richardson, Texas,Lower Elementary,Newton,FD
+8/1/2022,1000,Sibling ,-1000,0,0,0,Active,female,Richardson, Texas,Lower Elementary,Newton,FD
+8/1/2022,1155,Teacher Discount,-110,1045,0,1045,Active,female,Richardson, Texas,Toddler,Beethoven,FD
+8/1/2022,950,Employee discount,-950,0,0,0,Active,female,Richardson, Texas,Primary,Cassatt,FD
+8/1/2022,1000,Sibling ,-97.5,902.5,0,902.5,Active,female,Richardson, Texas,Primary,Cassatt,FD
+8/1/2022,1000,Sibling ,-185.49,814.51,0,814.51,Active,female,Richardson, Texas,Primary,Cassatt,FD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Active,male,Richardson, Texas,Primary,Chevalier,FD
+8/1/2022,1100,,0,1100,0,1100,Active,female,Richardson, Texas,Primary,Chevalier,FD
+8/1/2022,1000,Friends & Family,-300,700,0,700,Active,female,Richardson, Texas,Upper Elementary,Einstein,5SD
+8/1/2022,1000,Friends & Family,-300,700,0,700,Active,female,Richardson, Texas,Upper Elementary,Einstein,5SD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Active,female,Richardson, Texas,Upper Elementary,Einstein,5SD
+8/1/2022,1155,Old Price Discount,-55,1100,0,1100,Active,female,Richardson, Texas,Toddler,Monet,FD
+8/1/2022,1100,Teacher Discount,-102.5,997.5,-997.5,0,Active,female,Richardson, Texas,Toddler,Monet,FD
+8/1/2022,1050,Teacher Discount,-52.5,997.5,0,997.5,Active,female,Richardson, Texas,Toddler,Monet,FD
+8/1/2022,1155,Old Price Discount,-55,1100,0,1100,Active,male,Rockwall, Texas,Toddler,Monet,FD
+8/1/2022,1100,Healthcare Worker,-55,1045,0,1045,Active,female,Rowlett, Texas,Toddler,Beethoven,FD
+8/1/2022,1000,Sibling ,-97.5,902.5,0,902.5,Active,female,Rowlett, Texas,Primary,Cassatt,FD
+8/1/2022,1100,Friends & Family,-55,1045,0,1045,Active,female,Rowlett, Texas,Primary,Chevalier,FD
+8/1/2022,1100,Teacher Discount,-110,990,0,990,Active,female,Rowlett, Texas,Toddler,Monet,FD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Active,female,Rowlett, Texas,Primary,Van Gogh,5SD
+8/1/2022,950,Old Price Discount,-100,850,0,850,Active,female,Sachse, Texas,Lower Elementary,Newton,5SD
+8/1/2022,1000,,0,1000,0,1000,Active,male,Sachse, Texas,Lower Elementary,Newton,FD
+8/1/2022,900,Old Price Discount,-100,800,0,800,Active,female,Sachse, Texas,Primary,Cassatt,5SD
+8/1/2022,1050,Healthcare Worker,-52.5,997.5,0,997.5,Active,male,Sachse, Texas,Upper Elementary,Einstein,FD
+8/1/2022,1050,Healthcare Worker,-52.5,997.5,-997.5,0,Active,male,Sachse, Texas,Upper Elementary,Einstein,FD
+8/1/2022,1155,,0,1155,0,1155,Active,female,Sachse, Texas,Toddler,Monet,FD
+8/1/2022,1000,Friends & Family,-450,550,0,550,Active,female,Wylie, Texas,Lower Elementary,Newton,FD
+8/1/2022,1100,Friends & Family,-550,550,0,550,Active,female,Wylie, Texas,Primary,Van Gogh,FD
+8/1/2022,1000,Employee discount,-500,500,-500,0,Active,female,,,Upper Elementary,Einstein,5SD
+8/1/2022,1050,Old Price Discount,-50,1000,-50,950,Inactive,male,Garland, Texas,Upper Elementary,Einstein,FD
+8/1/2022,1100,Friends & Family,-300,800,0,800,Inactive,female,Garland, Texas,Primary,Van Gogh,FD
+8/1/2022,1000,Employee discount,-1000,0,0,0,Inactive,male,Richardson, Texas,Upper Elementary,Einstein,FD
+8/1/2022,1000,Sibling ,-50,950,-950,0,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1000,Corporate Discount,-97.5,902.5,0,902.5,Inactive,male,,,Primary,,FD
+8/1/2022,1000,Friends & Family,-450,550,0,550,Inactive,female,,,Primary,,FD
+8/1/2022,1000,Friends & Family,-450,550,0,550,Inactive,male,,,Primary,,FD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Inactive,male,,,Primary,,FD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Inactive,male,,,Primary,,FD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Inactive,male,,,Primary,,FD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Inactive,male,,,Primary,,FD
+8/1/2022,950,Old Price Discount,-100,850,0,850,Inactive,female,,,Primary,,5SD
+8/1/2022,950,Old Price Discount,-100,850,0,850,Inactive,male,,,Primary,,5SD
+8/1/2022,900,Old Price Discount,-100,800,-800,0,Inactive,female,,,Primary,,5HD
+8/1/2022,1000,Sibling ,-142.62,857.38,0,857.38,Inactive,female,,,Primary,,FD
+8/1/2022,1000,Sibling ,-97.5,902.5,0,902.5,Inactive,female,,,Primary,,FD
+8/1/2022,1000,Sibling ,-50,950,0,950,Inactive,male,,,Primary,,FD
+8/1/2022,950,Sibling ,-47.5,902.5,0,902.5,Inactive,male,,,Primary,,5SD
+8/1/2022,950,Sibling ,-47.5,902.5,-902.5,0,Inactive,female,,,Primary,,5SD
+8/1/2022,900,Sibling ,-87.75,812.25,0,812.25,Inactive,female,,,Primary,,FD
+8/1/2022,1000,,0,1000,0,1000,Inactive,male,,,Primary,,FD
+8/1/2022,950,,0,950,0,950,Inactive,male,,,Primary,,5SD
+8/1/2022,950,,0,950,0,950,Inactive,male,,,Primary,,5SD
+8/1/2022,950,Sibling ,-135.47,814.53,0,814.53,Active,male,Garland, Texas,Lower Elementary,Newton,FD
+8/1/2022,997.5,Old Price Discount,-95,902.5,0,902.5,Active,male,Garland, Texas,Upper Elementary,Einstein,FD
+8/1/2022,1018.5,Military Discount,-50.92,967.58,-46.08,921.5,Inactive,male,,,Lower Elementary,,5SD
+8/1/2022,1018.5,Prepayment Discount,-96.9,921.6,0,921.6,Inactive,female,,,Lower Elementary,,FD
+8/1/2022,1018.5,Healthcare Worker,-142.98,875.52,0,875.52,Inactive,female,,,Primary,,5SD
+8/1/2022,1018.5,Healthcare Worker,-142.98,875.52,0,875.52,Inactive,female,,,Primary,,5SD
+8/1/2022,970,Sibling ,-138.37,831.63,0,831.63,Inactive,female,,,Primary,,FD
+8/1/2022,950,Old Price Discount,47.5,902.5,0,902.5,Inactive,male,Plano, Texas,Primary,Chevalier,FD
+8/1/2022,1050,Sibling ,-100,950,0,950,Inactive,male,,,Lower Elementary,Newton,5SD
+8/1/2022,1050,Friends & Family,-200,850,0,850,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,Friends & Family,-200,850,0,850,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1000,Friends & Family,-145,855,-855,0,Inactive,female,,,Lower Elementary,,5SD
+8/1/2022,1050,Friends & Family,-262.5,787.5,0,787.5,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,Friends & Family,-200,850,0,850,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,Friends & Family,-200,850,0,850,Inactive,female,,,Lower Elementary,,FD
+8/1/2022,1050,Friends & Family,-262.5,787.5,0,787.5,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,Friends & Family,-1050,0,0,0,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1000,Friends & Family,-200,800,0,800,Inactive,male,,,Lower Elementary,,5SD
+8/1/2022,1000,Friends & Family,-1000,0,0,0,Inactive,male,,,Lower Elementary,,5SD
+8/1/2022,1050,Old Price Discount,-50,1000,0,1000,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,Old Price Discount,-50,1000,0,1000,Inactive,female,,,Lower Elementary,,FD
+8/1/2022,1050,Old Price Discount,-50,1000,0,1000,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,Old Price Discount,-50,1000,0,1000,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,Old Price Discount,-50,1000,-1000,0,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Inactive,male,,,Lower Elementary,,5SD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Inactive,female,,,Lower Elementary,,5SD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Inactive,female,,,Lower Elementary,,5SD
+8/1/2022,1050,Sibling ,-100,950,0,950,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,Sibling ,-100,950,0,950,Inactive,female,,,Lower Elementary,,FD
+8/1/2022,1050,Sibling ,-52.5,997.5,0,997.5,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,Sibling ,-52.5,997.5,-997.5,0,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,,0,1050,-1050,0,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,,0,1050,0,1050,Inactive,female,,,Lower Elementary,,FD
+8/1/2022,1050,,0,1050,-1050,0,Inactive,female,,,Lower Elementary,,FD
+8/1/2022,1050,,0,1050,0,1050,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1050,,0,1050,0,1050,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1000,,0,1000,0,1000,Inactive,male,,,Lower Elementary,,5SD
+8/1/2022,1050,Friends & Family,-200,850,-42.5,807.5,Inactive,female,,,Primary,,FD
+8/1/2022,950,Old Price Discount,-100,850,0,850,Inactive,female,,,Primary,,5HD
+8/1/2022,1000,Friends & Family,-300,700,-700,0,Inactive,female,,,Lower Elementary,,5SD
+8/1/2022,1100,Old Price Discount,-50,1050,0,1050,Inactive,male,,,Primary,,FD
+8/1/2022,950,Old Price Discount,-100,850,-850,0,Inactive,female,,,Primary,,5SD
+8/1/2022,1000,Old Price Discount,-50,950,0,950,Inactive,male,,,Lower Elementary,,5SD
+8/1/2022,1000,Sibling ,-185.49,814.51,0,814.51,Inactive,female,,,Lower Elementary,,5SD
+8/1/2022,1050,Employee discount,-1050,0,0,0,Inactive,female,,,Lower Elementary,,FD
+8/1/2022,1050,Old Price Discount,-50,1000,0,1000,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,1100,Employee discount,-1100,0,0,0,Inactive,male,,,Primary,,3SD
+8/1/2022,1000,Sibling ,-50,950,0,950,Inactive,male,,,Lower Elementary,,FD
+8/1/2022,950,,0,950,0,950,Inactive,female,,,Primary,,5SD
